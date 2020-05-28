@@ -9,9 +9,9 @@ git clone https://github.com/learnwithlakshman/js-playground.git
 ```
 
 ## Usage
-Click here for demo https://learnwithlakshman.github.io/ui-app/index.html
+#### Click here for demo https://learnwithlakshman.github.io/ui-app/index.html
 
-In the above link all the functionalities are implementated.
+#### In the above link all the functionalities are implementated.
 
 This repo contains only HTML Templates no JS Code will be there, You need to code for all .js files in js folder.
 
