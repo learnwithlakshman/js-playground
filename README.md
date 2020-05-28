@@ -27,6 +27,7 @@ Project is created with:
 
 ## Outcomes
 By Completeing all the functionalities you will learn
+* Problem Solving and Application Development
 * JS Arithmetic Operators
 * JS Strings
 * JS Arrays
@@ -39,3 +40,6 @@ By Completeing all the functionalities you will learn
 * Many more
 
 
+## How to Share what you have done?
+
+You can share link by creating new Github repo and deploying in GH pages https://pages.github.com/
